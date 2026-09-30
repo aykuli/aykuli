@@ -55,15 +55,15 @@ timeline
 ```
 
 ## Таймлайн трудовой деятельности
+
 **2026**
-[ООО Орбита Технологий](https://orbita.team/)
-**[BACKEND] Проект LOSMOS (LoRaWan sensors monitoring system)**
+
+**[BACKEND] Проект LOSMOS (LoRaWan sensors monitoring system)** для [ООО Орбита Технологий](https://orbita.team/)
 
 * Разработка платформы мониторинга базовых станции и устройств, работающих по протокоу LoRaWan
   
-[ЦОДД Москвы](https://gucodd.mos.ru/)
 
-**[BACKEND] Проект МПС (мониторинг подвижного состава)**
+**[BACKEND] Проект МПС (мониторинг подвижного состава)** для [ЦОДД Москвы](https://gucodd.mos.ru/)
 
 *Стек*: Ruby, RoR, RabbitMq, GraphQL, PostgeSQL
 
