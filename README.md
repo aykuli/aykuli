@@ -56,8 +56,12 @@ timeline
 
 ## Таймлайн трудовой деятельности
 **2026**
+[ООО Орбита Технологий](https://orbita.team/)
+**[BACKEND] Проект LOSMOS (LoRaWan sensors monitoring system)**
 
-ООО «СтандартПроект» [https://stdpr.ru/](https://stdpr.ru/)
+* Разработка платформы мониторинга базовых станции и устройств, работающих по протокоу LoRaWan
+  
+[ЦОДД Москвы](https://gucodd.mos.ru/)
 
 **[BACKEND] Проект МПС (мониторинг подвижного состава)**
 
